@@ -15,6 +15,4 @@
  floats.shift
 
  #unshift will add an element to the beginning of the array
- floats.unshift(flase)
-
- 
+ floats.unshift(false)
